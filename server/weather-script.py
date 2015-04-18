@@ -9,8 +9,8 @@ import codecs
 import pyowm
 
 # Variable declaration
-owm = pyowm.OWM('fbf212320d9257d0f997610f1da48735')
-location = 'Bristol,UK'
+owm = pyowm.OWM('')
+location = ''
 icons = []
 icons_parse = []
 highs = []
